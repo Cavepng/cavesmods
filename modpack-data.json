@@ -1,0 +1,27 @@
+{
+  "servers": [
+    {
+      "id": "crafty-cracking",
+      "name": "Crafty Cracking",
+      "ip": "icedancer.duckdns.org",
+      "minecraft_version": "1.20.1",
+      "forge_version": "47.2.0",
+      "modpacks": [
+        {
+          "name": "Initial Pack",
+          "description": "",
+          "download_url": "https://drive.google.com/file/d/1JG5zfO7knVqyT-t9KGm-roDLusVFcub-/view",
+          "file_size": "656 MB",
+          "mod_count": 320,
+          "last_updated": "2025-09-31"
+        }
+      ]
+    }
+  ],
+  "website_info": {
+    "title": "Cave's Mods",
+    "description": "",
+    "last_updated": "2025-09-30"
+  }
+}
+

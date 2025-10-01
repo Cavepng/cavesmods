@@ -1,0 +1,51 @@
+{
+  "servers": [
+    {
+      "id": "crafty-cracking",
+      "name": "Crafty Cracking",
+      "ip": "icedancer.duckdns.org",
+      "minecraft_version": "1.20.1",
+      "forge_version": "47.2.0",
+      "modpacks": [
+        {
+          "name": "Updated Pack",
+          "description": "",
+          "download_url": "https://example.com/downloads/epic-adventure-pack.zip",
+          "file_size": "2.3 GB",
+          "mod_count": 247,
+          "last_updated": "2025-09-30"
+        },
+        {
+          "name": "Tech & Magic Pack",
+          "description": "Focus on technology and magic mods for automation and spellcasting",
+          "download_url": "https://example.com/downloads/tech-magic-pack.zip",
+          "file_size": "1.8 GB",
+          "mod_count": 156,
+          "last_updated": "2024-01-10"
+        }
+      ]
+    },
+    {
+      "id": "creative-server",
+      "name": "Creative Server",
+      "ip": "creative.example.com:25566",
+      "minecraft_version": "1.20.1",
+      "forge_version": "47.2.0",
+      "modpacks": [
+        {
+          "name": "Building & Decoration Pack",
+          "description": "Perfect for creative builders with decorative and construction mods",
+          "download_url": "https://example.com/downloads/building-pack.zip",
+          "file_size": "1.2 GB",
+          "mod_count": 89,
+          "last_updated": "2024-01-12"
+        }
+      ]
+    }
+  ],
+  "website_info": {
+    "title": "Modded Minecraft Server",
+    "description": "Download modpacks and join our Minecraft servers",
+    "last_updated": "2024-01-15"
+  }
+}
